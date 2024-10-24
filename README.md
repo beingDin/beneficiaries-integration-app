@@ -1,9 +1,10 @@
 # beneficiaries-integration-app
 
 - [x] Deploy Project PI to IIB Integration Node 
-      
-<img width="1372" alt="1" src="https://github.com/user-attachments/assets/a63f188c-3162-4692-8ebd-442de1564e24">
 
+<br/><br/>
+<img width="1372" alt="1" src="https://github.com/user-attachments/assets/a63f188c-3162-4692-8ebd-442de1564e24">
+<br/><br/>
   
 - [x] Launch IIB Integration Console & run the command script - 01_StopAndBackupv10Node.cmd from its source directory
       
