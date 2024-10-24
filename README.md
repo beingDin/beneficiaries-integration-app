@@ -41,7 +41,7 @@
 <img width="975" alt="7" src="https://github.com/user-attachments/assets/6c4d2d22-8275-4d87-aa8d-c5dd86b05af1">
 <br/><br/>
 
-- [x] Connect to Integration Sever using on the Admin port shown in the console
+- [x] Connect to Integration Sever using the Admin port shown in the console
       
 
 <img width="983" alt="8" src="https://github.com/user-attachments/assets/07ba99ce-fb36-41e7-a8d5-12b7e87dcb1d">
