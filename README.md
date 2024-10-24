@@ -15,4 +15,4 @@
 - [x] Update the HTTP endpoints in the list sub-flows to call Stub APIs endpoints
 - [x] Redeploy to Integration Server and run a test to retrieve records. Deploy the same BAR file into CP4I - Integration Server. 
 - [x] Obtain the API Endpoint in CP4I and run a test to retrieve the records successfully.
-- [x] Newman test : newman run -k test.json -e test-env.json
+- [x] When testing with Newman you can run the provided collection using the command newman run -k test.json -e test-env.json
