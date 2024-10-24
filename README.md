@@ -1,14 +1,10 @@
 # beneficiaries-integration-app
 
-- [x] Deploy Project PI to IIB Integration Node
-
-      
+- [x] Deploy Project PI to IIB Integration Node 
       
 <img width="1372" alt="1" src="https://github.com/user-attachments/assets/a63f188c-3162-4692-8ebd-442de1564e24">
 
-
-
-   
+  
 - [x] Launch IIB Integration Console & run the command script - 01_StopAndBackupv10Node.cmd from its source directory
       
 
@@ -50,14 +46,14 @@
 
 <img width="983" alt="8" src="https://github.com/user-attachments/assets/07ba99ce-fb36-41e7-a8d5-12b7e87dcb1d">
   
-- [ ] Use ‘Retrieve and import resources’ to import the resources into your workspace
+- [x] Use ‘Retrieve and import resources’ to import the resources into your workspace
       
 
 <img width="600" alt="10" src="https://github.com/user-attachments/assets/edca2b10-5871-42f3-8615-97049fc26b19">
 
 
 - [x] Recreate the CommonLib reference and Clean all projects. Clean should remove all ‘import path’ errors
-- [ ] 
+
 
 <img width="1486" alt="11" src="https://github.com/user-attachments/assets/ec136807-ec70-4709-b5d2-8991f985950e">
 
